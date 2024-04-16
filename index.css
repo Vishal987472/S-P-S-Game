@@ -1,5 +1,5 @@
 body{
-    background-image: url(/background.jpg);
+    background-image: url(/background1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 h1{
-    background-color: #112e4e;
+    background-color: #8431aa;
     color: white;
     height: 5rem;
     line-height: 5rem;
@@ -32,7 +32,7 @@ h1{
 }
 .choice:hover{
     cursor: pointer;
-    background-color: #1665b9;
+    background-color: #7819b8;
 }
 img{
     height: 150px;
@@ -55,7 +55,7 @@ img{
     margin-top: 5rem;
 }
 #msg{
-    background-color: #1665b9;
+    background-color: #773faf;
     color: white;
     font-size: 2rem;
     display: inline;
